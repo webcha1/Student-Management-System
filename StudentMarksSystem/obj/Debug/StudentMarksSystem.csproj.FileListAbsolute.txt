@@ -1,0 +1,11 @@
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.csproj.AssemblyReference.cache
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.LoginForm.resources
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.Properties.Resources.resources
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.csproj.GenerateResource.cache
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.csproj.CoreCompileInputs.cache
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\bin\Debug\StudentMarksSystem.exe.config
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\bin\Debug\StudentMarksSystem.exe
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\bin\Debug\StudentMarksSystem.pdb
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.exe
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.pdb
+C:\Users\sadaruwan-it\source\repos\StudentMarksSystem\StudentMarksSystem\obj\Debug\StudentMarksSystem.exe.config
